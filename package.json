@@ -1,0 +1,17 @@
+{
+  "name": "ToDoApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.76.2"
+  },
+  "devDependencies": {
+    "@react-native/cli": "^9.0.0"
+  }
+}
